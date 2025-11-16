@@ -1,14 +1,13 @@
 
 # Who
-My github repo names change constantly because I am really bad a picking a username :( 
-I used to have alephnone in college and then foolishly gave it up so now it is notalephnone :)
+My github repo names change constantly because I am really bad a picking a username :)
 
-I'm AMT from the Canadian Rockies 🍁 and I like Computational Applied Mathematics (so mathematical modeling, satistics, data science, analytics and intelligence)  
+I'm AMT from the Canadian Rockies 🍁 and I like Computational Applied Mathematics (so mathematical modeling, statistics, data science, analytics and intelligence)  
 My favourite colour is #ffb219
 
 # What
-My current projects are focused around IoT systems, data management and niche internet data topics (Gacha games and Live-streaming analysis).
-
+My current projects are focused around IoT systems, data management and niche data topics (Live-streaming, video games and pop-culture).
+Working on a blog to yap about these and cleaning my git skills too.
 
 
 <!--
